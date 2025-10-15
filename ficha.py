@@ -67,4 +67,4 @@ if __name__ == "__main__":
                 print("Encerrando o programa...")
                 exit()
             else:
-                print("Entrada inválida! Digite apenas 1, 2 ou 3.\n")
+                print("Entrada inválida! Digite apenas 1 ou 2.\n")
