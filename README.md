@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Recursos de Criação e Magia
+## 🧙‍♂️ Recursos de Criação e Magia
 
 - **Nomes Aleatórios Únicos:** Geração dinâmica de nomes a partir de sílabas predefinidas, garantindo originalidade.
 - **Identidade Completa:** Escolha mágica e aleatória de **Raça**, **Classe**, **Origem** e um **Mentor** influente.
@@ -76,7 +76,6 @@ Manipulação eficiente de listas e funções para gerenciar os dados do mundo.
 
 Uso de estruturas de repetição e condicionais para orquestrar a lógica de criação.
 
-✒️ O Arquimago por trás do código
-Autor: Leonardo Pires
+✒️ Autor: Leonardo Pires
 
-Este projeto nasceu como um estudo e prática de Python, transformando linhas de código em narrativas e personagens.
+Este projeto é um estudo prático de Python, transformando linhas de código em narrativas e personagens.
